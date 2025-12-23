@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Ilham Febrian Arwansyah</h1>
-<h3 align="center">A passionate Software Developer from Indonesia</h3>
+<h3 align="center">All-Role Developer from Indonesia</h3>
 
 <p align="center">
   <a href="mailto:ilhamfebrianarwansyah@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/></a>
@@ -27,7 +27,6 @@
 
 #### Web
 ![React](https://img.shields.io/badge/React-20232A?style=flat&logo=react&logoColor=61DAFB)
-![Laravel](https://img.shields.io/badge/Laravel-f05340?style=flat&logo=laravel&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
 ![CodeIgniter](https://img.shields.io/badge/CodeIgniter-dd4814?style=flat&logo=codeigniter&logoColor=white)
 ![ExpressJS](https://img.shields.io/badge/Express-cloud?style=flat&logo=express&logoColor=black)

@@ -1,17 +1,5 @@
-<h1 align="center">Hi 👋, I'm Ilham Febrian Arwansyah</h1>
+<h1 align="center">Hi 👋, aruwansha here</h1>
 <h3 align="center">Software Developer from Indonesia 🇮🇩</h3>
-
-<p align="center">
-  <a href="mailto:ilhamfebrianarwansyah@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-  </a>
-  <a href="https://linkedin.com/in/aruwansha">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-  </a>
-  <a href="https://aruwansha.github.io/portfolio">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white"/>
-  </a>
-</p>
 
 ---
 
@@ -22,7 +10,6 @@
 - 🧩 Main stack: **React Native** and **Kotlin**
 - 🌱 Currently deepening my knowledge of **Jetpack Compose** to build modern Android UIs
 - 🛠 I care about code quality, maintainability, and clean architecture
-- 📫 Reach me at **ilhamfebrianarwansyah@gmail.com**
 
 ---
 
